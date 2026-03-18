@@ -1,0 +1,6 @@
+﻿  CaesarCipherCracker.c
+  main.c
+C:\Users\Gabriel Nasui\source\repos\OOP\Extra_Credit_Problem1\Extra_Credit_Problem1\CaesarCipherCracker.c(107,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Gabriel Nasui\source\repos\OOP\Extra_Credit_Problem1\Extra_Credit_Problem1\main.c(26,48): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  Extra_Credit_Problem1.vcxproj -> C:\Users\Gabriel Nasui\source\repos\OOP\Extra_Credit_Problem1\x64\Debug\Extra_Credit_Problem1.exe
